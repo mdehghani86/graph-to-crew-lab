@@ -9,7 +9,7 @@ Same goal, two architectures, so you can feel the difference.
 
 ## Open in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdehghani86/graph-to-crew-lab/blob/main/graph_to_crew_lab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdehghani86/graph-crew/blob/main/graph_to_crew_lab.ipynb)
 
 ## What's inside
 
